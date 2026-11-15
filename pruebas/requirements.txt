@@ -1,0 +1,2 @@
+# Solo para la prueba automática; el clasificador no necesita instalar nada.
+playwright>=1.40
